@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Развернуть ОАО Екатеринбургэнергосбыт</name>
+   <tag></tag>
+   <elementGuidId>36056063-bd36-418f-ad56-feca66e9eebb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='e8ea08f0fe304eff8e88d1c46e63e1ab']/div/div[2]/div[3]/ul/li[2]/ul/li[6]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>960f5b18-1280-4505-817b-382f482e7f53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rb-filter-list-item-text</value>
+      <webElementGuid>47d8ab1c-6d75-46b6-a47c-990a8af2b344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ОАО «Екатеринбургэнергосбыт» (ДЗО ПАО «МРСК Урала»)</value>
+      <webElementGuid>f5b3710c-e56d-4dd8-b4b1-57928cfbb55f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e8ea08f0fe304eff8e88d1c46e63e1ab&quot;)/div[@class=&quot;rb-filter-container not-selectable rb-filter-multi-selection&quot;]/div[@class=&quot;rb-filter-body-container opened&quot;]/div[@class=&quot;rb-filter-list-container&quot;]/ul[@class=&quot;rb-filter-list rb-filter-root-list&quot;]/li[@class=&quot;rb-filter-list-item rb-filter-list-item-parent&quot;]/ul[@class=&quot;rb-filter-list&quot;]/li[@class=&quot;rb-filter-list-item rb-filter-list-item-parent&quot;]/div[@class=&quot;rb-filter-list-item-container&quot;]/div[@class=&quot;rb-filter-list-item-text&quot;]</value>
+      <webElementGuid>236f00a2-da09-481e-be36-4903e721ddab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='e8ea08f0fe304eff8e88d1c46e63e1ab']/div/div[2]/div[3]/ul/li[2]/ul/li[6]/div/div</value>
+      <webElementGuid>4b6d793b-1127-499f-bb54-dc2be9a92e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Кабардино-Балкарское акционерное общество энергетики и электрификации'])[1]/following::div[2]</value>
+      <webElementGuid>e33db194-45ca-45d3-8f23-a8c44fda029b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ПАО «Севкавказэнерго»'])[1]/following::div[4]</value>
+      <webElementGuid>614d6392-2fb6-4815-ae65-a342d6b2a4e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ОАО «Екатеринбургэнергосбыт» (ДЗО ПАО «МРСК Урала»)'])[2]/preceding::div[1]</value>
+      <webElementGuid>fde3a4b2-7b7e-4171-93d6-1be0f58ed61c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ОАО «Янтарьэнергосбыт» (ДЗО ПАО «Янтарьэнерго»)'])[1]/preceding::div[3]</value>
+      <webElementGuid>ea202c8c-9a66-47a5-ad78-59b6d9ed17e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ОАО «Екатеринбургэнергосбыт» (ДЗО ПАО «МРСК Урала»)']/parent::*</value>
+      <webElementGuid>88b9de0c-3345-43d4-b9ed-c1afde3af661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/div/div</value>
+      <webElementGuid>83fc1fd3-563a-4c6a-a1df-12a316042df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ОАО «Екатеринбургэнергосбыт» (ДЗО ПАО «МРСК Урала»)' or . = 'ОАО «Екатеринбургэнергосбыт» (ДЗО ПАО «МРСК Урала»)')]</value>
+      <webElementGuid>c74431ce-2e73-44a9-aa91-06edb19518b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

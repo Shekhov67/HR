@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>percentOfWomen</name>
+   <tag></tag>
+   <elementGuidId>5b06b9ec-f568-4a25-8e86-3b248675e5b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[16]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#4611d8335f4e4eafbd515a4709c01f86 > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9bf6fcac-7198-4240-9149-f84a0b8cc431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>50%</value>
+      <webElementGuid>3636b3c9-fdf8-42c3-a72f-10760df5083d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;4611d8335f4e4eafbd515a4709c01f86&quot;)/div[1]</value>
+      <webElementGuid>f443d6a3-b184-4710-af5b-d584bcf53620</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='4611d8335f4e4eafbd515a4709c01f86']/div</value>
+      <webElementGuid>0a4be174-562b-44e1-8579-521e0941ca59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Женщин, %'])[1]/following::div[3]</value>
+      <webElementGuid>7715e73b-8bf7-4e65-8fee-8f41b45f8244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[8]/following::div[9]</value>
+      <webElementGuid>d7e14398-f2a9-47b1-87b5-6ad1b92d25d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[9]/preceding::div[16]</value>
+      <webElementGuid>64cc629a-66f0-43e8-ada8-460888d87d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Динамика среднего возраста'])[1]/preceding::div[24]</value>
+      <webElementGuid>d01bb97c-968d-4398-8f52-0d9a32b5ad60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div[2]/div/div</value>
+      <webElementGuid>df0e6ef9-24b4-4af7-83fc-7c8a61110400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '50%' or . = '50%')]</value>
+      <webElementGuid>c72078f0-21a7-4d8a-af48-12c81e1a32a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

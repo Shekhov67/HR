@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>выбрать НЕПРОФИЛЬНЫЕ ВИДЫ ДЕЯТЕЛЬНОСТИ</name>
+   <tag></tag>
+   <elementGuidId>9ea1773e-6801-4a24-aaaf-6a992cbf536e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dbef937fa4ff462ea89afa9cb5284a21']/div/div[2]/div[4]/ul/li[4]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>314fa437-98d8-4079-94ae-42e8f6659a68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rb-filter-list-item-text</value>
+      <webElementGuid>f3efd7fc-ac48-4881-bd4b-ba7499e8d830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>V. НЕПРОФИЛЬНЫЕ ВИДЫ ДЕЯТЕЛЬНОСТИ</value>
+      <webElementGuid>396b182f-2250-47f1-9009-7c5d50007356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dbef937fa4ff462ea89afa9cb5284a21&quot;)/div[@class=&quot;rb-filter-container not-selectable rb-filter-multi-selection&quot;]/div[@class=&quot;rb-filter-body-container opened&quot;]/div[@class=&quot;rb-filter-list-container&quot;]/ul[@class=&quot;rb-filter-list rb-filter-root-list&quot;]/li[@class=&quot;rb-filter-list-item&quot;]/div[@class=&quot;rb-filter-list-item-container&quot;]/div[@class=&quot;rb-filter-list-item-text&quot;]</value>
+      <webElementGuid>63704d46-0953-4f04-853b-406f30dc63c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dbef937fa4ff462ea89afa9cb5284a21']/div/div[2]/div[4]/ul/li[4]/div/div</value>
+      <webElementGuid>088e6fa7-cb0c-448b-a0a0-9385e26a973d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IV. ДЕЯТЕЛЬНОСТЬ ПО ПРОДАЖЕ ЭЛЕКТРОЭНЕРГИИ'])[1]/following::div[2]</value>
+      <webElementGuid>db45e26f-ad26-47cf-8c74-6dd09ba514f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='III. КАПИТАЛЬНОЕ СТРОИТЕЛЬСТВО, В Т.Ч. ХОЗСПОСОБОМ (КС)'])[1]/following::div[4]</value>
+      <webElementGuid>2e40da4a-d8c8-46d5-9f85-6ebd82697b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Отмена'])[3]/preceding::div[1]</value>
+      <webElementGuid>3d37e63d-770a-474b-a728-0e594649d75e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Применить'])[3]/preceding::div[2]</value>
+      <webElementGuid>db910b18-8c2d-4145-a378-6214115b6e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='V. НЕПРОФИЛЬНЫЕ ВИДЫ ДЕЯТЕЛЬНОСТИ']/parent::*</value>
+      <webElementGuid>d22da3f2-61fb-460c-b3e2-687f1a7c8bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[4]/div/div</value>
+      <webElementGuid>e986aa4d-cfb7-438f-b576-242a22a23079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'V. НЕПРОФИЛЬНЫЕ ВИДЫ ДЕЯТЕЛЬНОСТИ' or . = 'V. НЕПРОФИЛЬНЫЕ ВИДЫ ДЕЯТЕЛЬНОСТИ')]</value>
+      <webElementGuid>95159db1-982c-436d-a136-c76b89a31b60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

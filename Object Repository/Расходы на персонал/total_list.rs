@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>total_list</name>
+   <tag></tag>
+   <elementGuidId>4a6adfb4-4749-4932-8b45-a7fbba0ce2e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='4117dacc291a40088af5729f898b26a3']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#4117dacc291a40088af5729f898b26a3 > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e7c137e2-2e80-4006-af3b-e3f1d5636109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>213 831</value>
+      <webElementGuid>a9148ee2-d169-470f-9b58-0b7f6e409cd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;4117dacc291a40088af5729f898b26a3&quot;)/div[1]</value>
+      <webElementGuid>0ed92324-6d76-444a-bbb3-de375a0ce40a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='4117dacc291a40088af5729f898b26a3']/div</value>
+      <webElementGuid>4257559a-6aa5-40cd-9e4e-459f6770b466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Средняя списочная численность ГК Россети'])[1]/following::div[3]</value>
+      <webElementGuid>0ae52af0-8373-42e5-a08a-db644304633c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[18]/following::div[9]</value>
+      <webElementGuid>b47cbb31-08a0-4794-9b85-d2a4e972c7d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[19]/preceding::div[16]</value>
+      <webElementGuid>afecfa87-e581-40ce-b6a3-1cd4825bbb75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Списочная численность по группам персонала'])[1]/preceding::div[24]</value>
+      <webElementGuid>61b9d530-92aa-4408-93ad-89019f13a033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='213 831']/parent::*</value>
+      <webElementGuid>b7007d7c-dd5b-47da-8ddf-34ab7d0172fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[36]/div[2]/div/div</value>
+      <webElementGuid>03f978c8-2078-4107-937f-a95157b543bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '213 831' or . = '213 831')]</value>
+      <webElementGuid>848da18a-5259-40f3-8e1c-256e629cf413</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

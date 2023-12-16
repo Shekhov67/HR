@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>percentExperience20</name>
+   <tag></tag>
+   <elementGuidId>7ee4dc8a-ba63-449a-a8d9-92fe8f113d6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[58]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#1fb46c04cda24f6794609515448b1180 > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f8b3c68d-7ba5-4616-aa54-158ab6003609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>33.3%</value>
+      <webElementGuid>43854ecc-d0e5-4d78-8f8f-c2e54d2e8d6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1fb46c04cda24f6794609515448b1180&quot;)/div[1]</value>
+      <webElementGuid>d2e2f069-a645-414c-974e-587b64145661</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1fb46c04cda24f6794609515448b1180']/div</value>
+      <webElementGuid>e5019b39-ad74-4dee-a6ce-0f0d9949a140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[29]/following::div[9]</value>
+      <webElementGuid>89f624f0-2b1b-4cbb-a955-3fe481914cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[30]/preceding::div[16]</value>
+      <webElementGuid>c48a87ce-1663-4ff7-8345-6de7140a8571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[58]/div[2]/div/div</value>
+      <webElementGuid>45524346-d1f7-4872-a42d-cba017d2fb90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '33.3%' or . = '33.3%')]</value>
+      <webElementGuid>27c06a3e-7294-4008-9754-06da8e30ef64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

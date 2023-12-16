@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_data</name>
+   <tag></tag>
+   <elementGuidId>20b059f9-b579-442f-998b-918651844146</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='066cf37a8838426cbb176ede316497eb']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#066cf37a8838426cbb176ede316497eb > div.rb-filter-container.not-selectable.rb-filter-multi-selection > div.rb-filter-header-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba35ad14-5f6c-409d-beda-b875a6827796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rb-filter-header-container</value>
+      <webElementGuid>1e220145-de26-4f08-b65f-11ee433763df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2021 год</value>
+      <webElementGuid>73fe1d49-a36f-4c74-b87b-078d2308f27f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;066cf37a8838426cbb176ede316497eb&quot;)/div[@class=&quot;rb-filter-container not-selectable rb-filter-multi-selection&quot;]/div[@class=&quot;rb-filter-header-container&quot;]</value>
+      <webElementGuid>a75f8c51-2640-4357-b1e7-f215e98f661f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='066cf37a8838426cbb176ede316497eb']/div/div</value>
+      <webElementGuid>ca7d4a50-abcf-47f5-8344-2e6709055bbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Дата'])[1]/following::div[4]</value>
+      <webElementGuid>52f540ca-7cdc-4023-8a81-bc9040f13903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='В начало'])[17]/following::div[10]</value>
+      <webElementGuid>c03b90e2-59d7-49cc-83fd-b1bf336d85b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Выбранные значения'])[2]/preceding::div[2]</value>
+      <webElementGuid>39458019-e945-4e21-884b-c053978b7db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Выбрать отображаемые'])[2]/preceding::div[4]</value>
+      <webElementGuid>d96008df-d11d-42d7-9ae3-2f26748a1159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[34]/div[2]/div/div/div</value>
+      <webElementGuid>66965ca7-86f1-4e17-97e9-462c1cd6399d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2021 год' or . = '2021 год')]</value>
+      <webElementGuid>8a16af07-9b00-42c4-b9c1-71c1f2c9b925</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>деятельность КАПИТАЛЬНОЕ СТРОИТЕЛЬСТРВО</name>
+   <tag></tag>
+   <elementGuidId>5151ccf9-8209-464f-bbae-880641552b58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dbef937fa4ff462ea89afa9cb5284a21']/div/div[2]/div[4]/ul/li[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b8206607-6ace-496d-966b-8371e0b92817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rb-filter-list-item-text</value>
+      <webElementGuid>355b2fab-30da-4ff1-828e-432f0efdccbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>III. КАПИТАЛЬНОЕ СТРОИТЕЛЬСТВО, В Т.Ч. ХОЗСПОСОБОМ (КС)</value>
+      <webElementGuid>36e15a9a-70fb-4c86-8576-48e8053dec94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dbef937fa4ff462ea89afa9cb5284a21&quot;)/div[@class=&quot;rb-filter-container not-selectable rb-filter-multi-selection&quot;]/div[@class=&quot;rb-filter-body-container opened&quot;]/div[@class=&quot;rb-filter-list-container&quot;]/ul[@class=&quot;rb-filter-list rb-filter-root-list&quot;]/li[@class=&quot;rb-filter-list-item&quot;]/div[@class=&quot;rb-filter-list-item-container&quot;]/div[@class=&quot;rb-filter-list-item-text&quot;]</value>
+      <webElementGuid>616d978a-f751-4ff4-9579-73f0f0d2158f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dbef937fa4ff462ea89afa9cb5284a21']/div/div[2]/div[4]/ul/li[2]/div/div</value>
+      <webElementGuid>98a0369e-4b98-40e2-ab08-54d5310118e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='II. ОСНОВНАЯ ДЕЯТЕЛЬНОСТЬ'])[1]/following::div[2]</value>
+      <webElementGuid>c9a0f939-9d36-46a5-b114-14cd382ef06f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Снять выделение'])[3]/following::div[5]</value>
+      <webElementGuid>b4e3fd96-2a46-4d13-b568-9cce7fa1a246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IV. ДЕЯТЕЛЬНОСТЬ ПО ПРОДАЖЕ ЭЛЕКТРОЭНЕРГИИ'])[1]/preceding::div[1]</value>
+      <webElementGuid>ac0b5090-98f3-49c0-97c7-3b96c2ab804c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='V. НЕПРОФИЛЬНЫЕ ВИДЫ ДЕЯТЕЛЬНОСТИ'])[1]/preceding::div[3]</value>
+      <webElementGuid>6dd7cae9-9974-455b-8a3d-8dc6f2ce2adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='III. КАПИТАЛЬНОЕ СТРОИТЕЛЬСТВО, В Т.Ч. ХОЗСПОСОБОМ (КС)']/parent::*</value>
+      <webElementGuid>a9e6aed9-0e4c-45c6-9787-f2396c843cb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[2]/div/div</value>
+      <webElementGuid>a2f0809d-8fca-48a3-a159-132084290f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'III. КАПИТАЛЬНОЕ СТРОИТЕЛЬСТВО, В Т.Ч. ХОЗСПОСОБОМ (КС)' or . = 'III. КАПИТАЛЬНОЕ СТРОИТЕЛЬСТВО, В Т.Ч. ХОЗСПОСОБОМ (КС)')]</value>
+      <webElementGuid>ec75d796-3098-491a-9185-7e7f20ea495e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
